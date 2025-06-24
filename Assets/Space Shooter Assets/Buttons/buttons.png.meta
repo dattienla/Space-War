@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: d6a481306eb65cb4f82471d5b00d6fae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2712449135209075502
+    second: nut1_0
+  - first:
+      213: -2380085064383533868
+    second: nut1_1
+  - first:
+      213: 358415517334593695
+    second: nut1_2
+  - first:
+      213: -357854091950393383
+    second: nut1_3
+  - first:
+      213: 1596777469537072441
+    second: nut1_4
+  - first:
+      213: -135669973771780405
+    second: nut1_5
+  - first:
+      213: -4914157034374361930
+    second: nut1_6
+  - first:
+      213: -6493430133806492682
+    second: nut1_7
+  - first:
+      213: -6784188507408024012
+    second: nut1_8
+  - first:
+      213: -7585834464653450010
+    second: nut1_9
+  - first:
+      213: -2669121559601254611
+    second: nut1_10
+  - first:
+      213: -3717822148785658631
+    second: nut1_11
+  - first:
+      213: 673566548514507379
+    second: nut1_12
+  - first:
+      213: 271834861372929190
+    second: nut1_13
+  - first:
+      213: 7473593396682915480
+    second: nut1_14
+  - first:
+      213: -8565631106083393428
+    second: nut1_15
+  - first:
+      213: 3331829850972357452
+    second: nut1_16
+  - first:
+      213: -4017617877543014006
+    second: nut1_17
+  - first:
+      213: 3796208431824372197
+    second: nut1_18
+  - first:
+      213: 8091698530033055525
+    second: nut1_19
+  - first:
+      213: 7554213095937130230
+    second: nut1_20
+  - first:
+      213: -6605214416545874865
+    second: nut1_21
+  - first:
+      213: 9041871224174714666
+    second: nut1_22
+  - first:
+      213: 7037806033766584819
+    second: nut1_23
+  - first:
+      213: 3882235191033032335
+    second: nut1_24
+  - first:
+      213: 2688167053113327254
+    second: nut1_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: nut1_0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2167
+        width: 1119
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0c0b660bcfda4d93800de1af6b4c6
+      internalID: 1977806944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_1
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1089
+        width: 1462
+        height: 1609
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844497fc5d918024ea7fec46841708b5
+      internalID: 1555635651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: continue
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 2301
+        width: 261
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df532018ae7f84409979ce51b4a13e9
+      internalID: 1252687638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: paus
+      rect:
+        serializedVersion: 2
+        x: 3795
+        y: 2301
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44645a90bc540841870fa1f7e79782c
+      internalID: -1449300802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_4
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 2301
+        width: 263
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b179db459643794cada4942ee344ead
+      internalID: -1290765950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_5
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 2301
+        width: 261
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048e99d25b1adba4290179b5a4f788a9
+      internalID: 2056379853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_6
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 2301
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977a2d384ae1bbe4d8bd6db2ede045e4
+      internalID: 162997470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_7
+      rect:
+        serializedVersion: 2
+        x: 5093
+        y: 2301
+        width: 264
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ec6155dfc2b0468510340478d9bc4
+      internalID: 1380710166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_8
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 2301
+        width: 261
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e418b57a083b949a00f8ccb53188d8
+      internalID: 771155032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: end
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1648
+        width: 1119
+        height: 363
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8618c31938856fd4e82abd61dc649531
+      internalID: -663293952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_10
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1896
+        width: 1020
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43a7bc8333accc44849de243951c74c
+      internalID: -1988060426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_11
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 1896
+        width: 1022
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cbf411127d248459d6c3c4e1ee693f
+      internalID: 1380592661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_12
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1129
+        width: 1119
+        height: 364
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8276711cc45dba40aa67311152e6435
+      internalID: -1993136351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_13
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 1493
+        width: 1020
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db3e89dd169c714c88fbbccb738d564
+      internalID: -1077829203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_14
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 1493
+        width: 1021
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4659220ba7a44997eef52a8f1d5d5
+      internalID: -1264736249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_15
+      rect:
+        serializedVersion: 2
+        x: 3461
+        y: 1129
+        width: 2218
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a216abaa33ecf024298317f3b8d085a3
+      internalID: -1863575928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 626
+        width: 923
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0c38aaa1185e4ebb1f365bab59cae
+      internalID: -1752361201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resume
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 626
+        width: 923
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a006c3cffbe8e418d3823b91c69dba
+      internalID: 672371743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: replay
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 626
+        width: 922
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689002e37f476094ca361c45ca2ff219
+      internalID: -896265191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_19
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 626
+        width: 923
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88a938c432392b4c86ac6f4aef6b56f
+      internalID: -730928012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menu
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 626
+        width: 923
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d049011e3c0a6e4e85e296b89b0ffc2
+      internalID: 1047611674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 230
+        width: 923
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a4079c1620164085f8c2712659f0c
+      internalID: 1511951707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PauseGameButton
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 230
+        width: 923
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddaea19c14fbf942849249436b63ec2
+      internalID: 644428162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ContinueButton
+      rect:
+        serializedVersion: 2
+        x: 2539
+        y: 234
+        width: 922
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9536ac89c96d44593b837ac083ac1e
+      internalID: 1990215615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_24
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 230
+        width: 923
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce333cc7562ed8544aba6d61cc698cfe
+      internalID: -1578771935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nut1_25
+      rect:
+        serializedVersion: 2
+        x: 4756
+        y: 230
+        width: 923
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318004bf93ffa634abc64ffb2a1f07a5
+      internalID: -436833666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d92de1734dd8c214a834b8e989b5e396
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ContinueButton: 1990215615
+      PauseGameButton: 644428162
+      Play: -1752361201
+      continue: 1252687638
+      end: -663293952
+      menu: 1047611674
+      nut1_0: 1977806944
+      nut1_1: 1555635651
+      nut1_10: -1988060426
+      nut1_11: 1380592661
+      nut1_12: -1993136351
+      nut1_13: -1077829203
+      nut1_14: -1264736249
+      nut1_15: -1863575928
+      nut1_19: -730928012
+      nut1_21: 1511951707
+      nut1_24: -1578771935
+      nut1_25: -436833666
+      nut1_4: -1290765950
+      nut1_5: 2056379853
+      nut1_6: 162997470
+      nut1_7: 1380710166
+      nut1_8: 771155032
+      paus: -1449300802
+      replay: -896265191
+      resume: 672371743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
